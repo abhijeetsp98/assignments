@@ -18,6 +18,7 @@ function isAnagram(str1, str2) {
     }
   }
   return true;
+  
 }
 
 module.exports = isAnagram;
